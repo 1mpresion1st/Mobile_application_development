@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prac1</string>
+    <string name="button">Кнопка</string>
+    <string name="hint">hint</string>
+    <string name="message">Сообщение</string>
+    <string name="hello_world">Текстовое поле</string>
+    <string name="name">Ввод</string>
+</resources>
