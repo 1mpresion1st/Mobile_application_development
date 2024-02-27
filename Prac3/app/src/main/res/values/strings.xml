@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prac3</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="today">Сегодня!</string>
+</resources>
