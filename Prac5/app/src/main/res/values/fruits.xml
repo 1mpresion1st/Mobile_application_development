@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruits">
+        <item>Яблоки</item>
+        <item>Бананы</item>
+        <item>Сливы</item>
+        <item>Персики</item>
+        <item>Ананасы</item>
+        <item>Вишни</item>
+        <item>Черешни</item>
+        <item>Гранаты</item>
+        <item>Киви</item>
+        <item>Мандарины</item>
+        <item>Апельсины</item>
+    </string-array>
+</resources>

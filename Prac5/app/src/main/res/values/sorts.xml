@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apples">
+        <item>Golden</item>
+        <item>Красные</item>
+        <item>Зелёные</item>
+        <item>Кислые</item>
+        <item>Нектар</item>
+    </string-array>
+
+    <string-array name="bananas">
+        <item>Обезьяньи</item>
+        <item>Жёлтые</item>
+        <item>Спелые</item>
+        <item>Сладкие</item>
+    </string-array>
+
+    <string-array name="plums">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="peaches">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="pinapples">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="cherris">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="grenate">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="qiwies">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="mandarines">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+
+    <string-array name="oranges">
+        <item>Sort 1</item>
+        <item>Sort 2</item>
+        <item>Sort 3</item>
+    </string-array>
+</resources>
