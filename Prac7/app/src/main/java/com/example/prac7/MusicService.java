@@ -22,6 +22,7 @@ public class MusicService extends Service {
     public int onStartCommand(Intent intent, int flags, int
             startId) {
         if (!mediaPlayer.isPlaying()) {
+            Thread.sleep(20000);
             mediaPlayer.start();
             Log.d(TAG, "Музыка начала играть");
         }
