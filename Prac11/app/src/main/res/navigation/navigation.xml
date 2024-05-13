@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/webViewFragment">
+
+    <fragment
+        android:id="@+id/webViewFragment"
+        android:name="com.netrava.prac11.WebViewFragment"
+        android:label="WebViewFragment" />
+    <fragment
+        android:id="@+id/musicFragment"
+        android:name="com.netrava.prac11.MusicFragment"
+        android:label="MusicFragment" />
+    <fragment
+        android:id="@+id/animationsFragment"
+        android:name="com.netrava.prac11.AnimationsFragment"
+        android:label="AnimationsFragment" />
+    <fragment
+        android:id="@+id/notificationsFragment"
+        android:name="com.netrava.prac11.NotificationsFragment"
+        android:label="NotificationsFragment" />
+</navigation>
